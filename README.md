@@ -1,11 +1,7 @@
 <!-- Developer Information -->
 <h2 align="center">
   Welcome to Dipak Rathod's World! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/<p align="center">
-  <a href="https://github.com/dipakrathod-tech">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipakrathod-tech&theme=radical" alt="Dipak's GitHub Contribution"/>
-  </a>
-</p>.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h2>
 
 <a href="https://komarev.com/ghpvc/?username=dipakrathod-tech">
@@ -154,8 +150,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mr-dipak">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mr-dipak&theme=radical" alt="Dipak's GitHub Contribution"/>
+  <a href="https://github.com/dipakrathod-tech">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipakrathod-tech&theme=radical" alt="Dipak's GitHub Contribution"/>
   </a>
 </p>
 
