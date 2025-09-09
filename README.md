@@ -145,7 +145,7 @@
 <!-- GitHub Stats -->
 <p align="center">
   <a href="https://github.com/dipakrathod-tech">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipakrathod-tech&theme=radical&border=7F3FBF&background=0D1117" alt="Dipak's GitHub streak"/>
+    <img src="https://streak-stats.demolab.com/?user=dipakrathod-tech&theme=radical&border=7F3FBF&background=0D1117" alt="Dipak's GitHub streak"/>
   </a>
 </p>
 
