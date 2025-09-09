@@ -1,11 +1,15 @@
 <!-- Developer Information -->
 <h2 align="center">
   Welcome to Dipak Rathod's World! 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/<p align="center">
+  <a href="https://github.com/dipakrathod-tech">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dipakrathod-tech&theme=radical" alt="Dipak's GitHub Contribution"/>
+  </a>
+</p>.gif" width="28">
 </h2>
 
-<a href="https://komarev.com/ghpvc/?username=mr-dipak">
-  <img align="right" src="https://komarev.com/ghpvc/?username=mr-dipak&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+<a href="https://komarev.com/ghpvc/?username=dipakrathod-tech">
+  <img align="right" src="https://komarev.com/ghpvc/?username=dipakrathod-tech&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
 </a>
 
 <!-- Intro -->
@@ -30,9 +34,6 @@
  </a>
  <a href="mailto:dipakrathodo.tech@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
- </a>
- <a href="https://github.com/mr-dipak" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="Dipak Rathod" />
  </a>
 </p>
 <br />
@@ -110,17 +111,17 @@
 - Configured VPC for secure network architecture
 - Implemented Application Load Balancer for traffic distribution
 - Set up Auto Scaling Groups across availability zones
-- [View on GitHub](https://github.com/Mr-Dipak/Employee-Directory-Web-Application-AWS.git)
+- [View on GitHub](https://github.com/dipakrathod-tech/Employee-Directory-Web-Application-AWS.git)
 
 ### 🏢 NGO Management Full-Stack Web Application
 - Developed using MERN stack with integrated AWS S3 for file storage
 - Hosted MySQL database on AWS EC2 instance
 - Created features for volunteer management, event scheduling, and donation tracking
-- [View on GitHub](https://github.com/Mr-Dipak/Gyan-Prabha-Foundation)
+- [View on GitHub](https://github.com/dipakrathod-tech/Gyan-Prabha-Foundation)
 
 <!-- Cool Animation -->
 <p align="center">
-  <a href="https://github.com/Mr-Dipak"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00F700&center=true&vCenter=true&width=440&height=45&lines=Full+Stack+Developer;DevOps+Enthusiast;Cloud+Computing+Explorer;Community+Builder" alt="Typing Animation"></a>
+  <a href="https://github.com/dipakrathod-tech"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=00F700&center=true&vCenter=true&width=440&height=45&lines=Full+Stack+Developer;DevOps+Enthusiast;Cloud+Computing+Explorer;Community+Builder" alt="Typing Animation"></a>
 </p>
 
 <!-- Education & Community Section -->
@@ -147,8 +148,8 @@
 
 <!-- GitHub Stats -->
 <p align="center">
-  <a href="https://github.com/mr-dipak">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mr-dipak&theme=radical&border=7F3FBF&background=0D1117" alt="Dipak's GitHub streak"/>
+  <a href="https://github.com/dipakrathod-tech">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=dipakrathod-tech&theme=radical&border=7F3FBF&background=0D1117" alt="Dipak's GitHub streak"/>
   </a>
 </p>
 
@@ -159,11 +160,11 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/mr-dipak"><img alt="Dipak's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mr-dipak&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <a href="https://github.com/mr-dipak"><img alt="Dipak's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mr-dipak&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/dipakrathod-tech"><img alt="Dipak's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=dipakrathod-tech&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
+  <a href="https://github.com/dipakrathod-tech"><img alt="Dipak's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=dipakrathod-tech&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
 </p>
 
-![Dipak's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-dipak&custom_title=Dipak%20Rathod's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+![Dipak's Graph](https://github-readme-activity-graph.vercel.app/graph?username=dipakrathod-tech&custom_title=Dipak%20Rathod's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
 
 <br/>
 
