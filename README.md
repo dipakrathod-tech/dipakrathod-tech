@@ -17,7 +17,6 @@
 
 <p align="center"> 
   <samp>
-  
     <br>
     「 Computer Science student and aspiring Full-Stack Developer with growing experience in modern web technologies. Skilled in <b>JavaScript</b>, <b>TypeScript</b>, <b>Python</b>, <b>React.js</b>, <b>Node.js</b>, <b>Express.js</b>, and <b>SQL databases</b> with <b>Prisma ORM</b>. Passionate about cloud infrastructure (<b>AWS</b>) and DevOps practices. Founder of university-recognized Code Crafter 24x7 Student Community. Combining technical expertise with a problem-solving mindset to develop scalable, user-focused applications. 」
     <br>
@@ -26,10 +25,10 @@
 </p>
 
 <p align="center">
- <a href="https://linkedin.com/in/mrdipak" target="_blank">
+ <a href="https://linkedin.com/in/dipakrathod-tech" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Dipak Rathod"/>
  </a>
- <a href="mailto:mr.dipaknrathod@gmail.com" target="_blank">
+ <a href="mailto:dipakrathodo.tech@gmail.com" target="_blank">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
  </a>
  <a href="https://github.com/mr-dipak" target="_blank">
@@ -49,8 +48,8 @@
  🚀 &emsp; Founder of Code Crafter 24x7, a university-recognized tech community<br/><br/>
  🌱 &emsp; Currently learning cloud architecture (AWS) and DevOps practices<br/><br/>
  💬 &emsp; Ask me about: Web development, AWS, and community building<br/><br/>
- 📧 &emsp; Reach out: mr.dipaknrathod@gmail.com<br/><br/>
- 💼 &emsp; <a href="https://linkedin.com/in/mrdipak">Connect on LinkedIn</a>
+ 📧 &emsp; Reach out: dipakrathodo.tech@gmail.com<br/><br/>
+ 💼 &emsp; <a href="https://linkedin.com/in/dipakrathod-tech">Connect on LinkedIn</a>
 
 </p>
 
@@ -65,7 +64,7 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 
@@ -104,7 +103,7 @@
 - Implemented Prisma ORM for efficient database operations and type safety
 - Designed system architecture and database schema optimized for multi-tenant data isolation
 - Built RESTful APIs, JWT authentication, and role-based access control
-- *Timeframe: Jan 2025 - Present*
+- *Timeframe: Jun 2025*
 
 ### ☁️ Employee Directory Web Application on AWS
 - Deployed scalable employee directory application on AWS EC2
@@ -159,13 +158,14 @@
   </a>
 </p>
 
-<a> 
+<p align="center">
   <a href="https://github.com/mr-dipak"><img alt="Dipak's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=mr-dipak&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
   <a href="https://github.com/mr-dipak"><img alt="Dipak's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=mr-dipak&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
-  <br/>
-</a>
+</p>
 
 ![Dipak's Graph](https://github-readme-activity-graph.vercel.app/graph?username=mr-dipak&custom_title=Dipak%20Rathod's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
+
+<br/>
 
 <!-- Quote Section -->
 <p align="center">
