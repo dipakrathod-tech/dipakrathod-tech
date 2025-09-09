@@ -17,7 +17,7 @@
 
 <p align="center"> 
   <samp>
-    <a href="https://github.com/mr-dipak">「 Visit My GitHub 」</a>
+  
     <br>
     「 Computer Science student and aspiring Full-Stack Developer with growing experience in modern web technologies. Skilled in <b>JavaScript</b>, <b>TypeScript</b>, <b>Python</b>, <b>React.js</b>, <b>Node.js</b>, <b>Express.js</b>, and <b>SQL databases</b> with <b>Prisma ORM</b>. Passionate about cloud infrastructure (<b>AWS</b>) and DevOps practices. Founder of university-recognized Code Crafter 24x7 Student Community. Combining technical expertise with a problem-solving mindset to develop scalable, user-focused applications. 」
     <br>
